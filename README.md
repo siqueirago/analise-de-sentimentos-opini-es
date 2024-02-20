@@ -16,7 +16,7 @@ a inovação em uma variedade de setores.
 ![Criar recurso](https://github.com/siqueirago/analise-de-sentimentos-opini-es/assets/152822615/190f5eae-5b80-4211-8367-c760560d3d95)
 
 
-**3. 	Na página “Criar um recurso”**em categorias clicar em “IA + Machine Learning” e procure por “Análise de Texto” e clique em criar.
+**3. 	Na página “Criar um recurso”** em categorias clicar em “IA + Machine Learning” e procure por “Análise de Texto” e clique em criar.
 ![analise de texto](https://github.com/siqueirago/analise-de-sentimentos-opini-es/assets/152822615/f02a4881-22db-41d1-a6a2-918d73acd89f)
 
 * Você será direcionado para uma página para “Selecionar recursos adicionais” e clique em “Continuar a criar seu recurso”.
@@ -32,7 +32,7 @@ a inovação em uma variedade de setores.
 
 ![Captura de tela 2024-02-20 092300](https://github.com/siqueirago/analise-de-sentimentos-opini-es/assets/152822615/6dd9aacc-4991-422a-bf25-3182d11bbe5b)
 
-**2.Na página inicial Bem-vindo ao Language Studio**, selecione a guia Classificar texto e, em seguida, selecione o bloco Analisar sentimento e minerar opiniões.
+** 2.  Na página inicial Bem-vindo ao Language Studio**, selecione a guia Classificar texto e, em seguida, selecione o bloco Analisar sentimento e minerar opiniões.
 **3. Em Selecionar idioma** do texto, selecione **Inglês**.
 **4. Em Selecione seu recurso** do Azure, selecione seu recurso.
 **5. Em Digite seu próprio texto**, carregue um arquivo **ou use um de nossos textos** de exemplo.
