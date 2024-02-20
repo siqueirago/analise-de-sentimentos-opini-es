@@ -1,4 +1,7 @@
 # Criar um recurso de análise de texto
+Um recurso de análise de texto é uma ferramenta habilitada por inteligência artificial e processamento de linguagem natural, que permite a interpretação, compreensão e extração de informações de textos escritos em linguagem humana. Utilizando algoritmos avançados, este recurso é capaz de identificar e analisar elementos como entidades nomeadas, sentimento, tópicos, relações semânticas, e outros atributos relevantes dentro do conteúdo textual. Essa sofisticada tecnologia oferece uma ampla gama de aplicações em áreas como análise de dados, resumo automático de textos, classificação de documentos, detecção de tendências, personalização de experiências de usuário, entre outras, contribuindo significativamente para a tomada de decisões e o desenvolvimento de soluções inteligentes em diversos domínios.
+Neste projeto será  avaliado dos textos com opiniões diferentes, referente a avalição de hoteis para ver o resultado.
+
 ### 1.	Acessar o Portal do Azure: Faça login no portal do Azure em https://portal.azure.com/.
 ### 2.	No Portal do Azure, clique em "+ Criar um recurso" no canto superior esquerdo.
    
